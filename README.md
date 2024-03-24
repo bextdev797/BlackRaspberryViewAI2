@@ -1,5 +1,3 @@
-# BlackRaspberryViewAI2
+## BlackRaspberryView
 
-Download AIX 👇🏻
-
-<a href="https://github.com/bextdev797/BlackRaspberryViewAI2/blob/main/com.brandonang.blackraspberryview.aix">Download Now</a>
+An App Inventor 2 extension created using Rush.
